@@ -1,0 +1,16 @@
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.Business.deps.json
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.Business.dll
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.Business.pdb
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.Business.csprojAssemblyReference.cache
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.Business.AssemblyInfoInputs.cache
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.Business.AssemblyInfo.cs
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.Business.dll
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.Business.pdb
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.DataAccess.dll
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.Entities.dll
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.DataAccess.pdb
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.Entities.pdb
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.Business.csproj.CopyComplete
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.Business.csproj.CoreCompileInputs.cache
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.DTO.dll
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Business\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.DTO.pdb

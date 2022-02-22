@@ -1,0 +1,9 @@
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.DTO\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.DTO.deps.json
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.DTO\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.DTO.dll
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.DTO\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.DTO.pdb
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.DTO\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.DTO.csprojAssemblyReference.cache
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.DTO\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.DTO.AssemblyInfoInputs.cache
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.DTO\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.DTO.AssemblyInfo.cs
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.DTO\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.DTO.csproj.CoreCompileInputs.cache
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.DTO\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.DTO.dll
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.DTO\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.DTO.pdb

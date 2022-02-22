@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20220218222435_EntitiesUpdate.cs" />
+    <Compile Remove="Migrations\20220218222435_EntitiesUpdate.Designer.cs" />
+    <Compile Remove="Migrations\20220218223713_EntitiesUpdate.cs" />
+    <Compile Remove="Migrations\20220218223713_EntitiesUpdate.Designer.cs" />
+    <Compile Remove="Migrations\20220218223942_EntitiesUpdate.cs" />
+    <Compile Remove="Migrations\20220218223942_EntitiesUpdate.Designer.cs" />
+    <Compile Remove="Migrations\20220218224149_EntitiesUpdate.cs" />
+    <Compile Remove="Migrations\20220218224149_EntitiesUpdate.Designer.cs" />
+    <Compile Remove="Migrations\20220219161824_EntitiesUpdateV2.cs" />
+    <Compile Remove="Migrations\20220219161824_EntitiesUpdateV2.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.22" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="3.1.22">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.22" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.22">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WriterManagementWebAPI.Entities\WriterManagementWebAPI.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

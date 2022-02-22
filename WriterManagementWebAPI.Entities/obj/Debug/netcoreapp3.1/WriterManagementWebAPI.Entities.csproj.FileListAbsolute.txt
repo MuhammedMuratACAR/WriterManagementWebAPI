@@ -1,0 +1,9 @@
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Entities\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.Entities.deps.json
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Entities\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.Entities.dll
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Entities\bin\Debug\netcoreapp3.1\WriterManagementWebAPI.Entities.pdb
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Entities\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.Entities.csprojAssemblyReference.cache
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Entities\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Entities\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.Entities.AssemblyInfo.cs
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Entities\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Entities\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.Entities.dll
+C:\Users\acarm\source\repos\WriterManagementWebAPI\WriterManagementWebAPI.Entities\obj\Debug\netcoreapp3.1\WriterManagementWebAPI.Entities.pdb
