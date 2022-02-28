@@ -7,7 +7,7 @@ Content
 Category
 Heading
 
-Yapı olarak Generic Design Pattern kullandım.
+MSSQL - Generic Design Patterns – Entity Framework – LINQ – AutoMapper – IoC Container – FluentValidation kullandım.
 
 Writer tablosuna göre temel işlemler ve select, orderby , filtreleme ve pagination uygulanmıştır.
 
