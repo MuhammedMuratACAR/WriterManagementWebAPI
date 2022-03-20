@@ -7,7 +7,7 @@ Content
 Category
 Heading
 
-MSSQL - Generic Design Patterns – Entity Framework – LINQ – AutoMapper – IoC Container – FluentValidation kullandım.
+MSSQL - Repository Design Patterns – Entity Framework – LINQ – AutoMapper – IoC Container – FluentValidation kullandım.
 
 Writer tablosuna göre temel işlemler ve select, orderby , filtreleme ve pagination uygulanmıştır.
 
